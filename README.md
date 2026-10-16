@@ -1,7 +1,8 @@
-
-
 # TresEnRaya — Juego de Tic-Tac-Toe con IA (Minimax)
 **Inteligencia Artificial (INF-418)**
+
+### Proyecto compilado 
+![imagen del proyectos compilados ](readMeIMG/img1.png "imagen del proyecto compilado")
 
 **TresEnRaya** desarrollada en **Java 8** con interfaz grafica **Swing** el jugador humano se enfrenta a una inteligencia artificial que utiliza el algoritmo **Minimax** para decidir sus movimientos, con un nivel de dificultad configurable.
 
